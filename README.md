@@ -1,2 +1,5 @@
-# week-5-warm-up
-Warm Up Assignment for Week 5 of Coding Club
+# Week 5 Warm Up
+
+**Writing Prompt: Tell me everything that you have done in your project so far, and what else needs to get done.**
+
+[Erase this line and start typing.]
